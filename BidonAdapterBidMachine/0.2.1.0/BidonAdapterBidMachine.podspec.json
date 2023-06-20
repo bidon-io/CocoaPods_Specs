@@ -3,7 +3,7 @@
   "version": "0.2.1.0",
   "summary": "Bidon adapter for BidonAdapterBidMachine",
   "description": "Makes the top mobile mediation SDKs more transparent",
-  "homepage": "https://appodeal.com",
+  "homepage": "https://bidon.org",
   "license": {
     "type": "Copyright",
     "text": "Copyright 2023. Bidon Inc."
