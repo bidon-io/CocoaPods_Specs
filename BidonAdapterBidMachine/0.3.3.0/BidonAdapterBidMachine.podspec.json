@@ -29,36 +29,6 @@
     "BidMachine": [
       "~> 2.3.0"
     ],
-    "BidMachineAdColonyAdapter": [
-      "~> 2.3.0"
-    ],
-    "BidMachineMintegralAdapter": [
-      "~> 2.3.0"
-    ],
-    "BidMachineAmazonAdapter": [
-      "~> 2.3.0"
-    ],
-    "BidMachineCriteoAdapter": [
-      "~> 2.3.0"
-    ],
-    "BidMachineMetaAudienceAdapter": [
-      "~> 2.3.0"
-    ],
-    "BidMachineMyTargetAdapter": [
-      "~> 2.3.0"
-    ],
-    "BidMachineSmaatoAdapter": [
-      "~> 2.3.0"
-    ],
-    "BidMachineTapjoyAdapter": [
-      "~> 2.3.0"
-    ],
-    "BidMachineVungleAdapter": [
-      "~> 2.3.0"
-    ],
-    "BidMachinePangleAdapter": [
-      "~> 2.3.0"
-    ],
     "Bidon": [
       "0.3.3"
     ]
