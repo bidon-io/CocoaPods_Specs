@@ -6,7 +6,7 @@
   "homepage": "https://bidon.org",
   "license": {
     "type": "Copyright",
-    "text": "Copyright 2023. Bidon Inc."
+    "text": "Copyright 2024. Bidon Inc."
   },
   "authors": {
     "Bidon Inc.": "https://http://bidon.org"
@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "BigoADS": [
-      "~> 4.1.1"
+      "~> 4.2.0"
     ],
     "Bidon": [
       "0.4.7"
