@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "InMobiSDK": [
-      "~> 10.7.1"
+      "~> 10.7.2"
     ],
     "Bidon": [
       "0.7.0-next.2"
