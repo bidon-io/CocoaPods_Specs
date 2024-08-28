@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "UnityAds": [
-      "~> 4.10.0"
+      "~> 4.11.3"
     ],
     "Bidon": [
       "0.7.0-next.2"
