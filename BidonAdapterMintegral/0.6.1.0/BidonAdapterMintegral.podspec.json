@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "MintegralAdSDK": [
-      "~> 7.7.2"
+      "= 7.7.2"
     ],
     "Bidon": [
       "0.6.1"
