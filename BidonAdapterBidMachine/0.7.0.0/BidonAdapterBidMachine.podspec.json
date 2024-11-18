@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "BidMachine": [
-      "~> 2.6.0"
+      "~> 3.0.1"
     ],
     "Bidon": [
       "0.7.0"
