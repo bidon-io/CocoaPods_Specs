@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "AppLovinSDK": [
-
+      "= 13.0.0"
     ],
     "Bidon": [
       "0.7.0"
