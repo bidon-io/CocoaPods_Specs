@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "FBAudienceNetwork": [
-      "= 6.15.0"
+      "= 6.15.2"
     ],
     "Bidon": [
       "0.7.0"
