@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "AmazonPublisherServicesSDK": [
-      "~> 4.9.2"
+      "~> 4.9.7"
     ],
     "Bidon": [
       "0.7.0"
