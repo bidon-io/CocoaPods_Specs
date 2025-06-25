@@ -1,0 +1,46 @@
+{
+  "name": "ISBidonCustomAdapter",
+  "version": "0.7.24",
+  "summary": "Bidon adapter for ISBidonCustomAdapter",
+  "description": "Makes the top mobile mediation SDKs more transparent",
+  "homepage": "https://bidon.org",
+  "license": {
+    "type": "Copyright",
+    "text": "Copyright 2025. Bidon Inc."
+  },
+  "authors": {
+    "Bidon Inc.": "https://http://bidon.org"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "http": "https://s3-eu-central-1.amazonaws.com/bidon-ios/ISBidonCustomAdapter/0.7.24/ISBidonCustomAdapter.zip"
+  },
+  "swift_versions": [
+    "4.0",
+    "4.2",
+    "5.0"
+  ],
+  "vendored_frameworks": [
+    "ISBidonCustomAdapter-0.7.24/ISBidonCustomAdapter.xcframework"
+  ],
+  "dependencies": {
+    "IronSourceSDK": [
+      "= 8.8.0.0"
+    ],
+    "Bidon": [
+      "0.7.24"
+    ]
+  },
+  "pod_target_xcconfig": {
+    "OTHER_LDFLAGS": "$(inherited)",
+    "VALID_ARCHS[sdk=iphoneos*]": "arm64 armv7",
+    "VALID_ARCHS[sdk=iphonesimulator*]": "x86_64 arm64",
+    "SWIFT_FLAGS": "$(inherited) -no-verify-emitted-module-interface"
+  },
+  "user_target_xcconfig": {
+    "OTHER_LDFLAGS": "$(inherited)"
+  },
+  "swift_version": "5.0"
+}
