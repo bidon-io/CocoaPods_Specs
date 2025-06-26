@@ -12,7 +12,7 @@
     "Bidon Inc.": "https://http://bidon.org"
   },
   "platforms": {
-    "ios": "13.0"
+    "ios": "12.0"
   },
   "source": {
     "http": "https://s3-eu-central-1.amazonaws.com/bidon-ios/ISBidonCustomAdapter/0.8.0.0/ISBidonCustomAdapter.zip"
@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "IronSourceSDK": [
-      "= 8.8.0.0"
+      "~> 8.8"
     ],
     "Bidon": [
       "0.8.0"
