@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "VungleAds": [
-      "= 7.5.2"
+      "= 7.5.1"
     ],
     "Bidon": [
       "0.9.0-alpha.1"
