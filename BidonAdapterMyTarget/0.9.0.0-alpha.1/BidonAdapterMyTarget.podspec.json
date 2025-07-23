@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "myTargetSDK": [
-      "~> 5.29.1"
+      "~> 5.32.1"
     ],
     "Bidon": [
       "0.9.0-alpha.1"
