@@ -15,7 +15,7 @@
     "ios": "12.0"
   },
   "source": {
-    "http": "https://s3-eu-central-1.amazonaws.com/bidon-ios/BidonAdapterMintegral/7.7.9.0/BidonAdapterMintegral.zip"
+    "http": "https://s3-eu-central-1.amazonaws.com/bidon-ios/BidonAdapterMintegral/0.12.0.0-test.1/BidonAdapterMintegral.zip"
   },
   "swift_versions": [
     "4.0",
@@ -23,14 +23,14 @@
     "5.0"
   ],
   "vendored_frameworks": [
-    "BidonAdapterMintegral-7.7.9.0/BidonAdapterMintegral.xcframework"
+    "BidonAdapterMintegral-0.12.0.0-test.1/BidonAdapterMintegral.xcframework"
   ],
   "dependencies": {
     "MintegralAdSDK": [
       "= 7.7.9"
     ],
     "Bidon": [
-      ">= 0.12.0-test.2"
+      ">= 0.12.0-test.1"
     ]
   },
   "pod_target_xcconfig": {
