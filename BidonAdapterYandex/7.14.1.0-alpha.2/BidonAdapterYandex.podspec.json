@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "DivKit": [
-      "= 32.2"
+      "= 32.6.0"
     ],
     "AppMetricaAnalytics": [
       "= 5.11.2"
