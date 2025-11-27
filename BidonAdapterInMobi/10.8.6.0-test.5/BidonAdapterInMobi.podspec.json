@@ -30,7 +30,7 @@
       "= 10.8.6"
     ],
     "Bidon": [
-      ">= 0.12.0-test.5"
+      ">= 0.13.0-test.5"
     ]
   },
   "pod_target_xcconfig": {
