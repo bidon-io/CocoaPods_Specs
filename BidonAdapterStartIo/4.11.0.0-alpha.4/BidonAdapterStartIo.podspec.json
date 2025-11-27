@@ -12,7 +12,7 @@
     "Bidon Inc.": "https://bidon.org"
   },
   "platforms": {
-    "ios": "12.0"
+    "ios": "13.0"
   },
   "source": {
     "http": "https://s3-eu-central-1.amazonaws.com/bidon-ios/BidonAdapterStartIo/4.11.0.0-alpha.4/BidonAdapterStartIo.zip"
@@ -30,7 +30,7 @@
       "= 4.11.0"
     ],
     "Bidon": [
-      ">= 0.12.0-alpha.4"
+      ">= 0.12.0"
     ]
   },
   "pod_target_xcconfig": {
